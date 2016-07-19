@@ -1,0 +1,139 @@
+
+Solucao:	
+	Intervalo de tempo 0
+		Forma de capacidade : 11.95
+			vigas = 1.22 3.3 1.22 3.3 1.22 1.22  Perda na forma = 0.469999
+		Forma de capacidade : 11.95
+			vigas = 1.22 3.3 1.22 3.3 1.22 1.22  Perda na forma = 0.469999
+		Forma de capacidade : 11.95
+			vigas = 1.22 3.3 1.22 3.3 1.22 1.22  Perda na forma = 0.469999
+		Forma de capacidade : 11.95
+			vigas = 1.22 3.3 1.22 3.3 1.22 1.22  Perda na forma = 0.469999
+		Forma de capacidade : 11.95
+			vigas = 1.22 3.3 1.22 3.3 1.22 1.22  Perda na forma = 0.469999
+		Forma de capacidade : 11.95
+			vigas = 1.22 3.3 1.22 3.3 1.22 1.22  Perda na forma = 0.469999
+		Forma de capacidade : 5.95
+			vigas = 1.45 2.95 1.45  Perda na forma = 0.0999994
+  Perda no tempo de cura = 2.92
+
+	Intervalo de tempo 1
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.95 1.45 2.95 2.95  Perda na forma = 0.2
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.95 1.45 2.95 2.95  Perda na forma = 0.2
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.95 1.45 2.95 2.95  Perda na forma = 0.2
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.95 1.45 2.95 2.95  Perda na forma = 0.2
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.95 1.45 2.95 2.95  Perda na forma = 0.2
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.95 1.45 2.65 2.65  Perda na forma = 0.8
+		Forma de capacidade : 5.95
+			vigas = 1.45 2.65 1.45  Perda na forma = 0.4
+  Perda no tempo de cura = 2.2
+
+	Intervalo de tempo 2
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.65 1.45 2.65 2.65  Perda na forma = 1.1
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.65 1.45 2.65 2.65  Perda na forma = 1.1
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.65 1.45 2.65 2.65  Perda na forma = 1.1
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.65 1.45 2.65 2.65  Perda na forma = 1.1
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.65 1.45 2.5 2.5  Perda na forma = 1.4
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.5 1.45 2.5 1.45 2.5  Perda na forma = 0.0999994
+		Forma de capacidade : 5.95
+			vigas = 1.45 2.5 1.45  Perda na forma = 0.55
+  Perda no tempo de cura = 6.45
+
+	Intervalo de tempo 3
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.5 1.45 2.5 1.45 2.5  Perda na forma = 0.0999994
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.5 1.45 2.5 1.45 2.5  Perda na forma = 0.0999994
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.5 1.45 2.5 1.45 2.5  Perda na forma = 0.0999994
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.5 1.45 2.5 1.45 2.5  Perda na forma = 0.0999994
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.5 1.45 2.5 1.45 2.5  Perda na forma = 0.0999994
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.5 1.45 2.5 1.45 2.5  Perda na forma = 0.0999994
+		Forma de capacidade : 5.95
+			vigas = 1.45 2.5 1.45  Perda na forma = 0.55
+  Perda no tempo de cura = 1.15
+
+	Intervalo de tempo 4
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.5 1.45 2.5 1.45 2.5  Perda na forma = 0.0999994
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.5 1.45 2.5 1.45 2.5  Perda na forma = 0.0999994
+		Forma de capacidade : 11.95
+			vigas = 1.45 2.5 1.45 2.5 1.45 2.5  Perda na forma = 0.0999994
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.5 2.35 2.5  Perda na forma = 2.25
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.5 2.35 2.5  Perda na forma = 2.25
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.5 2.35 2.5  Perda na forma = 2.25
+		Forma de capacidade : 5.95
+			vigas = 2.35 2.5  Perda na forma = 1.1
+  Perda no tempo de cura = 8.15
+
+	Intervalo de tempo 5
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.5 2.35 2.5  Perda na forma = 2.25
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.5 2.35 2.5  Perda na forma = 2.25
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.5 2.35 2.5  Perda na forma = 2.25
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.5 2.35 2.5  Perda na forma = 2.25
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.5 2.35 2.5  Perda na forma = 2.25
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.5 2.35 2.5  Perda na forma = 2.25
+		Forma de capacidade : 5.95
+			vigas = 2.35 2.5  Perda na forma = 1.1
+  Perda no tempo de cura = 14.6
+
+	Intervalo de tempo 6
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.5 2.35 2.5  Perda na forma = 2.25
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.5 2.35 2.5  Perda na forma = 2.25
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.5 2.35 2.5  Perda na forma = 2.25
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.5 2.35 2.5  Perda na forma = 2.25
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.5 2.35 2.5  Perda na forma = 2.25
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.5 2.35 2.5  Perda na forma = 2.25
+		Forma de capacidade : 5.95
+			vigas = 2.35 2.5  Perda na forma = 1.1
+  Perda no tempo de cura = 14.6
+
+	Intervalo de tempo 7
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.5 2.35 2.5  Perda na forma = 2.25
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.5 2.35 2.5  Perda na forma = 2.25
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.5 2.35 2.35 2.35  Perda na forma = 0.0500002
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.35 2.35 2.35 2.35  Perda na forma = 0.2
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.35 2.35 2.35 2.35  Perda na forma = 0.2
+		Forma de capacidade : 11.95
+			vigas = 2.35 2.35 2.35 2.35 2.35  Perda na forma = 0.2
+  Perda no tempo de cura = 5.15
+
+
+F.O = z = 5.15
+Demanda nao atingida! :(
